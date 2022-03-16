@@ -7,7 +7,7 @@
 
 Things done so far in the project:
 
-#### 1. Build mobile skeleton
+#### 1. Build desktop skeleton
 
 - Parse a Figma design
 - Use Flexbox and CSS Grid for positioning
@@ -20,7 +20,7 @@ Things done so far in the project:
 
 ## Live Demo
 
-[Live Demo Link](https://kaitcham.github.io/Portfolio/)
+[Live Demo Link](https://andrelau11.github.io/Book-Store/)
 
 ## Getting Started
 
@@ -31,13 +31,7 @@ Use the following command in your terminal:
 - **To clone the main project**
 
 ```
-git clone https://github.com/kaitcham/Portfolio
-```
-
-- **To clone the mobile-skeleton branch**
-
-```
-git clone -b mobile-skeleton https://github.com/kaitcham/Portfolio/mobile-skeleton
+git clone git@github.com:AndreLau11/Book-Store.git
 ```
 
 ## Authors
@@ -48,11 +42,16 @@ git clone -b mobile-skeleton https://github.com/kaitcham/Portfolio/mobile-skelet
 - Twitter: [@kaitcham](https://twitter.com/kaitcham)
 - LinkedIn: [kaitcham](https://linkedin.com/in/kaitcham)
 
+👤 **Hectot Andre Lau**
+
+- GitHub: [@AndreLau11](https://github.com/AndreLau11)
+- Twitter: [@HectorAndreLau](https://twitter.com/HectorAndreLau)
+- LinkedIn: [@HectorAndreLauEstrada](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-lau-estrada-b4947795/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kaitcham/Portfolio/issues).
+Feel free to check the [issues page](https://github.com/AndreLau11/Book-Store/issues).
 
 ## Show your support
 
