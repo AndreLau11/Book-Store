@@ -1,72 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Book-Store
 
-> Description the project.
+> Awesome Books
+> ![screenshot](images/Capture.PNG)
 
+Things done so far in the project:
+
+#### 1. Build mobile skeleton
+
+- Parse a Figma design
+- Use Flexbox and CSS Grid for positioning
+- Use images and backgrounds
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML, CSS
+- Technologies used: Lighthouse, Webhint, Stylelint
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://kaitcham.github.io/Portfolio/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Use the following command in your terminal:
 
-### Setup
+- **To clone the main project**
 
-### Install
+```
+git clone https://github.com/kaitcham/Portfolio
+```
 
-### Usage
+- **To clone the mobile-skeleton branch**
 
-### Run tests
-
-### Deployment
-
-
+```
+git clone -b mobile-skeleton https://github.com/kaitcham/Portfolio/mobile-skeleton
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Kait Cham**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kaitcham](https://github.com/kaitcham)
+- Twitter: [@kaitcham](https://twitter.com/kaitcham)
+- LinkedIn: [kaitcham](https://linkedin.com/in/kaitcham)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/kaitcham/Portfolio/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
