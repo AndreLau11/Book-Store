@@ -1,72 +1,61 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Book-Store
 
-> Description the project.
+> Awesome Books
+> ![screenshot](images/Capture.PNG)
 
+Things done so far in the project:
+
+#### 1. Build desktop skeleton
+
+- Parse a Figma design
+- Use Flexbox and CSS Grid for positioning
+- Use images and backgrounds
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML, CSS
+- Technologies used: Lighthouse, Webhint, Stylelint
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://andrelau11.github.io/Book-Store/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Use the following command in your terminal:
 
-### Setup
+- **To clone the main project**
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+git clone git@github.com:AndreLau11/Book-Store.git
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Kait Cham**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kaitcham](https://github.com/kaitcham)
+- Twitter: [@kaitcham](https://twitter.com/kaitcham)
+- LinkedIn: [kaitcham](https://linkedin.com/in/kaitcham)
 
-👤 **Author2**
+👤 **Hectot Andre Lau**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@AndreLau11](https://github.com/AndreLau11)
+- Twitter: [@HectorAndreLau](https://twitter.com/HectorAndreLau)
+- LinkedIn: [@HectorAndreLauEstrada](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-lau-estrada-b4947795/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AndreLau11/Book-Store/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
