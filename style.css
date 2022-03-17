@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   height: 100%;
 }
 
@@ -12,9 +13,8 @@ body {
   background-image: url('./backgroundimage.jpg');
   background-size: cover;
   background-position: center;
-  justify-content: center;
   align-items: center;
-  padding: 60px 0;  
+  padding: 60px 0;
 }
 
 header {
@@ -27,20 +27,6 @@ header {
   left: 0;
   width: 100%;
   padding: 0 15px;
-}
-
-header > nav > ul {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-header > h3 {
-  display: flex;
-  justify-content: flex-start;
-}
-
-header > nav > ul > li {
-  border-right: 2px solid rgb(8, 8, 8);
 }
 
 ul {
@@ -77,6 +63,20 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+header > nav > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+header > h3 {
+  display: flex;
+  justify-content: flex-start;
+}
+
+header > nav > ul > li {
+  border-right: 2px solid rgb(8, 8, 8);
 }
 
 .information {
