@@ -7,7 +7,7 @@
     <title>Awesome Books</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
+  <body class="informationBody">
     <header>
       <h3><a href="./index.html">All Awesome Books</a></h3>
       <nav>
@@ -19,9 +19,17 @@
       </nav>
     </header>
     <main>
-      <div class="books">
-        <h1>All Awesome Books</h1>
-        <div class="books-container"></div>
+      <div class="addition">
+        <h1>Add a New Book</h1>
+        <form class="book-form">
+          <p>
+            <input type="text" name="title" id="title" placeholder="Title" />
+          </p>
+          <p>
+            <input type="text" name="author" id="author" placeholder="Author" />
+          </p>
+          <button type="submit">Add</button>
+        </form>
       </div>
     </main>
     <footer>

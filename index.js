@@ -83,7 +83,7 @@ formSubmit.addEventListener('submit', (event) => {
     const bookAuthor = author.value;
     const book = new Book(bookTitle, bookAuthor);
     booksArray.push(book);
-    Book.addBook();
+    localStorage.setItem('booksData', JSON.stringify(booksArray));
     title.value = '';
     author.value = '';
   }
